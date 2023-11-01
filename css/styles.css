@@ -10,6 +10,19 @@
     --box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.1);
 }
 
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css');
+:root {
+    --primary:#ff303a;
+    --black: #000;
+    --white: #fff;
+    --light-black: #666;
+    --hover: rgba(244,244,244,0.8);
+    --bg: #f9f9f9;
+    --border: 0.1rem solid rgba(0,0,0,0.3);
+    --box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.1);
+}
+
+
 * {
     font-family: 'Poppins', sans-serif;
     margin: 0;
