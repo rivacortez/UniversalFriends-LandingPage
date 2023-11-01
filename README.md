@@ -1,5 +1,6 @@
 # UniversalFriends
-![UF](https://github.com/rivacortez/UniversalFriends-LandingPage/assets/121280440/0bbde807-c314-4d05-aee1-ffd4d071a893)
+
+![UFr](https://github.com/rivacortez/UniversalFriends-LandingPage/assets/121280440/8a3bbed7-0c86-482e-b422-803a9e15d07a)
 
 
 LandingPage UF
