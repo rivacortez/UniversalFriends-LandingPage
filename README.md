@@ -1,3 +1,3 @@
 # rivacortez.github.io
 LandingPage UF
-website: universalfriendsweb.vercel.app
+website: https://universfriends-kauu87vjr-rivacs-projects.vercel.app/#inicio
